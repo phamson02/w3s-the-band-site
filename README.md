@@ -1,4 +1,5 @@
 # W3School's Band Template Webisite Clone
+<<<<<<< HEAD
 
 Clone site: https://phamson02.github.io/w3s-the-band-site/
 
@@ -20,5 +21,11 @@ I recreated the band template site of W3Schools as part of a project in the intr
 ## Acknowledgements
 
 This project was mainly instructed by Đặng Ngọc Sơn in his excellent introductory course to HTML and CSS at [F8](https://fullstack.edu.vn).
+=======
+
+## Acknowledgements
+
+This project was mainly instructed by Đặng Ngọc Sơn in his excellent introductory course to HTML and CSS on [F8](https://fullstack.edu.vn).
+>>>>>>> 4742261c0593fdcb732632d37cc8cb0125f897e3
 
 The site I made in this project is a clone of [W3Schools' Band Template Webisite](https://www.w3schools.com/graphics/band_template.htm).
