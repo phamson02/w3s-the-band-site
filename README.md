@@ -1,7 +1,5 @@
 # W3School's Band Template Webisite Clone
 
-<<<<<<< HEAD
-
 Clone site: https://phamson02.github.io/w3s-the-band-site/
 
 I recreated the band template site of W3Schools as part of a project in the introductory course to HTML and CSS at [F8](https://fullstack.edu.vn). One tiny change that I did to the site is in the mobile the navigation bar as shown below.
