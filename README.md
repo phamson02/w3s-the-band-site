@@ -17,12 +17,6 @@ My navigation bar on the left preserve the search button as compared to the orig
 
 ## Acknowledgements
 
-# This project was mainly instructed by Đặng Ngọc Sơn in his excellent introductory course to HTML and CSS at [F8](https://fullstack.edu.vn).
-
-## Acknowledgements
-
 This project was mainly instructed by Đặng Ngọc Sơn in his excellent introductory course to HTML and CSS on [F8](https://fullstack.edu.vn).
-
-> > > > > > > 4742261c0593fdcb732632d37cc8cb0125f897e3
 
 The site I made in this project is a clone of [W3Schools' Band Template Webisite](https://www.w3schools.com/graphics/band_template.htm).
