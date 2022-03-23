@@ -4,7 +4,7 @@ Clone site: https://phamson02.github.io/w3s-the-band-site/
 
 I recreated the band template site of W3Schools as part of a project in the introductory course to HTML and CSS at [F8](https://fullstack.edu.vn). One tiny change that I did to the site is in the mobile the navigation bar as shown below.
 
-My navigation bar on the left preserve the search button as compared to the original bar.
+My navigation bar on the left preserve the search button as compared to the original bar which removed this button.
 
 <p align="middle" float="left">
   <img src="/demo/my-nav-bar.png" width="40%" />
